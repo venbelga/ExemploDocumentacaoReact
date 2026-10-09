@@ -1,7 +1,7 @@
-import {Networking} from "./src/Guias/interfacesUsuarioEInteracoes/networking";
+import ActivityIndicatorExemplo from "./src/Componentes/activityIndicatorExemplo";
 
 export default function App() {
   return (
-    <Networking />
+    <ActivityIndicatorExemplo />
   );
 }
